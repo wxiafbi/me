@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
 {
     // wxi = new we (1988, 9, 1);
     wxi.show();
-    me *fbi=new me(1986,11,16);
+    me *fbi = new me(1986, 11, 16);
     fbi->show();
     getchar();
     return 0;
