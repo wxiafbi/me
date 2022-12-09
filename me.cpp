@@ -9,6 +9,7 @@ int main(int argc, char const *argv[])
     wxi.show();
     me *fbi = new me(1986, 11, 16);
     fbi->show();
+    // std::cout << "" << std::endl;
     getchar();
     return 0;
 }
