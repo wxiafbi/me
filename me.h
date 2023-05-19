@@ -28,6 +28,8 @@ void me::show(void)
 {
     std::cout << _year << "-" << _month << "-" << _day << std::endl;
 }
-// me *fbi;
+// class timer:public me{
+    
+// }
 
 #endif // !WE_H
